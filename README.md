@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## GHPages
 ng deploy --base-href https://hlfs12345.github.io/Angular-Portfolio/browser/
 
-Versão Final 1.0.0
+Versão 1.0.1
